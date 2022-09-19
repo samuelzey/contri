@@ -1,5 +1,5 @@
 ---
-description: 版本号：v0.1，主要作用是内部信息同步和架构确定
+description: 版本号：v0.2，主要作用是内部测试以及收集前期社区反馈
 ---
 
 # ❓ What is Contri?
@@ -18,31 +18,26 @@ Contri提供了一个社区贡献工具（Contri.build）作为入口，让项�
 
 ## Contri的组成部分
 
-![Contri产品构成](<.gitbook/assets/image (47).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Contri的产品分为4个部分:**&#x20;
+**Contri的产品分为3个部分:**&#x20;
 
-* Contri.build
-* Contri SBT
-* Contri DID
-* Contri API
+* Community SaaS
+* Contri SBT Protocol
+* Contri Data Layer
 
 如果想了解各个部分可以点击下方快速跳转链接
 {% endhint %}
 
-{% content-ref url="components/contri.build.md" %}
-[contri.build.md](components/contri.build.md)
+{% content-ref url="components/community-saas.md" %}
+[community-saas.md](components/community-saas.md)
 {% endcontent-ref %}
 
-{% content-ref url="components/contri-sbt.md" %}
-[contri-sbt.md](components/contri-sbt.md)
+{% content-ref url="components/contri-sbt-protocol.md" %}
+[contri-sbt-protocol.md](components/contri-sbt-protocol.md)
 {% endcontent-ref %}
 
-{% content-ref url="components/contri-did.md" %}
-[contri-did.md](components/contri-did.md)
-{% endcontent-ref %}
-
-{% content-ref url="components/contri-api.md" %}
-[contri-api.md](components/contri-api.md)
+{% content-ref url="components/contri-data-layer.md" %}
+[contri-data-layer.md](components/contri-data-layer.md)
 {% endcontent-ref %}

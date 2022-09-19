@@ -6,10 +6,9 @@
 
 ## COMPONENTS
 
-* [🧱 Contri.build](components/contri.build.md)
-* [📝 Contri SBT](components/contri-sbt.md)
-* [🆔 Contri DID](components/contri-did.md)
-* [⚙ Contri API](components/contri-api.md)
+* [🧱 Community SaaS](components/community-saas.md)
+* [📝 Contri SBT Protocol](components/contri-sbt-protocol.md)
+* [🆔 Contri Data Layer](components/contri-data-layer.md)
 
 ## FOR BUILDERS
 

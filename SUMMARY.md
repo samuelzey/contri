@@ -32,4 +32,4 @@
 ## FUNDAMENTALS
 
 * [Community Credential](fundamentals/community-credential.md)
-* [Resources](fundamentals/resources.md)
+* [Resources](sbt-fundamentals/resources.md)

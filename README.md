@@ -18,7 +18,7 @@ Contri提供了一个社区管理SaaS工具作为入口，让项目建设者可�
 
 ## Contri的组成部分
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Contri的产品分为3个部分:**&#x20;

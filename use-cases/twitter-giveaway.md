@@ -37,7 +37,7 @@
     <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>想要收集用户对这个任务的反馈才需要添加，默认可以不添加</p></figcaption></figure>
 10. 点击Complete，成功生成任务！
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p> 只要到达开始时间，用户就可以看到了</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p> 只要到达开始时间，用户就可以看到了</p></figcaption></figure>
 11. 点击任务中上方的Share按钮，在推特上分享任务链接即可！(文字可以自行编辑)，用户点击link可以直达任务
 
     <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>可以在推文内写任务具体内容，也可以只给出任务链接</p></figcaption></figure>

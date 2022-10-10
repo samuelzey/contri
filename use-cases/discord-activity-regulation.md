@@ -54,7 +54,7 @@
     <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>想要收集用户对这个任务的反馈才需要添加，默认可以不添加</p></figcaption></figure>
 13. 任务生成成功，可以在后台看到任务提交情况
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>可以通过页面右边的ON/OFF来控制任务可见性，任务结束可以设置成OFF</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>可以通过页面右边的ON/OFF来控制任务可见性，任务结束可以设置成OFF</p></figcaption></figure>
 14. 在首页可以看到任务发布成功，用户可以领取并且完成
 
     <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p> 只要到达开始时间，用户就可以看到了</p></figcaption></figure>

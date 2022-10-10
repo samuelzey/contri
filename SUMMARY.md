@@ -29,6 +29,7 @@
 * [👂 Community Call / AMA](use-cases/community-call-ama.md)
 * [🎨 Fan Art Contest](use-cases/fan-art-contest.md)
 
-## SBT FUNDAMENTALS
+## FUNDAMENTALS
 
-* [Resources](sbt-fundamentals/resources.md)
+* [Community Credential](fundamentals/community-credential.md)
+* [Resources](fundamentals/resources.md)
